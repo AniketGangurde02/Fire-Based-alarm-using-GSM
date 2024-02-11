@@ -1,4 +1,5 @@
 #Fire Alarm System with Arduino, GSM, Buzzer, and Flame Sensor
+
 Overview:
 The Fire Alarm System is a project developed using Arduino microcontroller along with a GSM module, buzzer, and flame sensor. It is designed to detect the presence of fire and send an alert message to predefined phone numbers via SMS, while also activating a buzzer alarm to alert people nearby.
 
